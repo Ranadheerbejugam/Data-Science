@@ -1,4 +1,4 @@
-#Below code compares data from oracle vs snowflake with list of tables provided in csv file
+#Below code compares data from oracle vs snowflake with list of tables provided in seperate csv file
 
 import modin.pandas as pd
 import snowflake.snowpark.modin.plugin
