@@ -35,7 +35,7 @@ oracle_port = '5150'
 oracle_service_name = ''
 #oracle_service_name = ''
 #oracle_table = ''
-cx_Oracle.init_oracle_client(lib_dir="C:\\Users\\bpradhan\\Downloads\\instantclient-basic-windows.x64-21.13.0.0.0dbru\\instantclient_21_13")
+cx_Oracle.init_oracle_client(lib_dir="C:\\Users\\rbejugam\\Downloads\\instantclient-basic-windows.x64-21.13.0.0.0dbru\\instantclient_21_13")
     
 
 # Function to connect to Oracle database and fetch data
